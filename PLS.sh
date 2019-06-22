@@ -20,4 +20,4 @@ echo -e $R
 
 read -p "enter  url  :  " sajed
 cd NatsO11
-python go.py  $sajed
+python2 go.py  $sajed
