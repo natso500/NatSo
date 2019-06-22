@@ -19,5 +19,5 @@ echo -e $R
 
 
 read -p "enter  url  :  " sajed
-cd NatSO11
+cd NatsO11
 python go.py  $sajed
